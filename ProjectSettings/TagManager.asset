@@ -3,10 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Foreground
-  - Limit
-  - Activate
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -14,11 +11,11 @@ TagManager:
   - 
   - Water
   - UI
-  - Foreground
-  - Player
-  - Background
   - 
   - 
+  - Oniric
+  - real
+  - realfake
   - 
   - 
   - 
@@ -44,15 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Background
-    uniqueID: 1750147675
+  - name: reality
+    uniqueID: 3098125269
     locked: 0
-  - name: Custom Range
-    uniqueID: 4064702053
+  - name: fakereality
+    uniqueID: 3730376179
+    locked: 0
+  - name: oniric
+    uniqueID: 1035211565
     locked: 0
   - name: Player
-    uniqueID: 2583880839
+    uniqueID: 3497217837
     locked: 0
-  - name: Foreground
-    uniqueID: 3061152487
+  - name: rings
+    uniqueID: 3516593387
     locked: 0
