@@ -38,6 +38,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: real bg
+    uniqueID: 2778367801
+    locked: 0
+  - name: oniric bg
+    uniqueID: 4233907489
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
